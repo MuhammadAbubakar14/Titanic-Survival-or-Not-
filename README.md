@@ -16,7 +16,5 @@ This project is my **first experience deploying a Machine Learning model on a we
 - **Bootstrap & CSS** (Frontend styling)  
 - **Git & GitHub** (Version control)  
 
-## 🛠️ Installation & Setup  
-Follow these steps to set up the project locally:  
 
 
